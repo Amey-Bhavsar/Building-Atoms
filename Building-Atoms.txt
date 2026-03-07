@@ -1,0 +1,13 @@
+Building-Atoms 
+
+In this repo i will be posting what I have covered and learnt about anything tech related such as DSA , WebDev , etc.
+This is just to keep track of my learnings. 
+
+/Concepts 
+	Definition or use case of concepts for the basic understanding. This wil involve DSA Algos , related terms for the sake of revision.
+
+/Problems 
+	These are some of best dsa problems and their source and solution. 
+
+/WebDev 
+	Anything related to web development. 

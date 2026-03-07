@@ -1,0 +1,18 @@
+DSA Sorting and related terms : 
+
+In soritng the bounds of for loop are imp and significant and u should be able to decode them.
+
+1. Selection Sort - O(n^2)
+  In each loop check for the smaller element than our current loop and if(true) swap these elements. Have minI and minNow int variables (just to get ideas).  
+  This is the sample code written by me  : https://www.geeksforgeeks.org/problems/selection-sort/1
+  for loops ke bound -  1st one - i = 0 to arr.size - 1
+                        2nd one - j = i to arr.size - 1 
+//bubble sort ka commit tmw aloing with stable and unstable algos
+
+2. Bubble Sort - O(n^2)
+  Array gets sorted from the last element. First for loop = arr.size() - 1. Basically n-1 loops
+  And in second for loop you swap each adjacent elements for loop bounds : j = 0 to j = arr.size() -1 -i
+  Sample code from gfg : https://www.geeksforgeeks.org/problems/bubble-sort/1
+
+# Stable and Unstable sorting algos - 
+  if relative order changes then it is unstble and vice versa. Ex. Marks vs student.
